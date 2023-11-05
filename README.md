@@ -1,6 +1,6 @@
 ### Hi there! Welcome to my GitHub profile. 👋
 ### My name is Rafael. I'm a biologist who is changing careers.
-### In love with Front-End 💗
+### Aiming to be a full-stack 💗
 
 <!--
 **rafaelorvalle/rafaelorvalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
